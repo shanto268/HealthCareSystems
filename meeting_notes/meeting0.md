@@ -1,4 +1,9 @@
-# First Meeting
+---
+title: First Meeting 
+author: Sadman Ahmed Shanto 
+date: 2020-10-10 
+geometry: margin=2cm
+---
 
 ## Attendance:
 - Shanto: shanto268
@@ -23,4 +28,4 @@
 ## Notes:
 -[] Jira or trello for progress reporting
 
--[] github repo create
+-[x] github repo create
